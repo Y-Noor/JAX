@@ -18,8 +18,8 @@ jax-ml-algorithms/
 ├── logistic_regression/          
 │   ├── flax_linen_logistic_regression.ipynb  
 │
-├── random_forest/                # 🚧 Coming Soon
-│   └── ...
+├── xgboost/               
+│   └── jax_xgboost.ipynb         # Solving kaggle competition for house prices
 │
 ├── neural_networks/              # 🚧 Coming Soon
 │   └── ...
